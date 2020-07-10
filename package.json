@@ -1,0 +1,17 @@
+{
+  "name": "desktop-app",
+  "version": "1.0.0",
+  "description": "Desktop app for study purposes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "desktop"
+  ],
+  "author": "João Vitor",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  }
+}
