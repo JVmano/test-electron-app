@@ -12,6 +12,6 @@
   "author": "João Vitor",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.0.4"
+    "electron": "^9.3.1"
   }
 }
